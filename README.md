@@ -1,4 +1,6 @@
-AliceBandit: An adversarial thresholding bandit with multiple plays
+<p style="font-family: times; font-size:11pt; font-style:bold">
+    AliceBandit: An adversarial thresholding bandit with multiple plays
+</p>
 
 AliceBandit is an adversarial multi-armed semi-bandit for the thresholding bandit problem with K arms. In a repeated game over T rounds, played against an oblivious adversary that generates feedback for each arm. A player decides which k out of K arms to pull each round, where 𝑘≤𝑘
 and the player's objective is to only pull arms that return values exceeding some pre-defined threshold 𝜃.
