@@ -9,3 +9,7 @@ AliceBandit increases the efficiency over current approaches by reducing the nee
 
 The following plots are of a TRD high voltage channel on ALICE, indicating when AliceBandit queried each channel. The blue line is the sequence of voltages (normalised) taken between January and May 2015 at intervals of approximately 2 seconds. The red vertical lines indicate when AliceBandit chose to observe feedback from that channel.
 
+![Figure 1](TRD1.png)
+![Figure 2](TRD2.png)
+![Figure 3](TRD3.png)
+![Figure 4](TRD4.png)
